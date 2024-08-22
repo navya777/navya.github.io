@@ -6,10 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=fr79IYkAAAAJ&hl=en
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/conference_presentations.md    
 
   - title: "Teaching"
     url: /teaching/    
